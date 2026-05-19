@@ -5,7 +5,7 @@ body{
      height:100;
 
 .calculator{
-     class="calculator"
+     class="calculator";
      background-color:black;
      padding:40px;
      color:white;
