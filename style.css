@@ -8,7 +8,6 @@ body{
      class="calculator";
      background-color:black;
      padding:40px;
-     color:white;
      border-radius:15px;
 
 #display{
@@ -19,7 +18,7 @@ body{
 
 .buttons{
      display:grid;
-     grid-templates-columns:repeat(4,80px);
+     grid-templates-columns:repeat(4, 80px);
      gap:20px;
 
 button{
